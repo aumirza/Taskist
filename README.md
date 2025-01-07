@@ -2,6 +2,12 @@
 
 Task management using Asp.net core
 
+## Screenshots
+![Taskist](./Docs/images/taskist.png)
+![Taskist List](./Docs/images/taskist-list.png)
+![Taskist Edit](./Docs/images/taskist-edit-task.png)
+![Taskist Delete prompt](./Docs/images/taskist-delete-prompt.png)
+![Taskist Delete action](./Docs/images/taskist-delete-action.png)
 
 ## Features
 
